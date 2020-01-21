@@ -1,0 +1,12 @@
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\bin\Debug\netstandard2.0\RadioButtonDemo.deps.json
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\bin\Debug\netstandard2.0\RadioButtonDemo.dll
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\bin\Debug\netstandard2.0\RadioButtonDemo.pdb
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\RadioButtonDemo.csprojAssemblyReference.cache
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\RadioButtonDemo.csproj.CoreCompileInputs.cache
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\RadioButtonDemo.AssemblyInfoInputs.cache
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\RadioButtonDemo.AssemblyInfo.cs
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\XamlC.stamp
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\RadioButtonDemo.dll
+E:\GIT HUB\RadioButtonDemo\RadioButtonDemo\RadioButtonDemo\obj\Debug\netstandard2.0\RadioButtonDemo.pdb
